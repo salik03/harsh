@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
+transformers
+pillow
+torch
+requests
